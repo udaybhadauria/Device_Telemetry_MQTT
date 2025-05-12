@@ -30,7 +30,7 @@ def test_dashboard_empty(client):
     assert b'Router Telemetry Dashboard' in response.data
     assert b'<td>' not in response.data  # No rows yet
 
-@patch('app.send_slack_notification')
+@patch('mqtt_broker.send_slack_notification')
 def test_mqtt_post_and_dashboard(mock_slack, client):
     """Test posting telemetry and dashboard update"""
     telemetry = {
