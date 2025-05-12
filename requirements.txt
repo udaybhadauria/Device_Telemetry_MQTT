@@ -1,0 +1,7 @@
+Flask
+python-dotenv
+requests
+paho-mqtt
+pytest
+pytest-mock
+coverage

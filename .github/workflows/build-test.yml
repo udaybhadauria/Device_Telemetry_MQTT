@@ -1,0 +1,57 @@
+name: Build & Test Telemetry App
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Code
+        uses: actions/checkout@v4
+
+      - name: 🐳 Build Docker Image
+        run: docker build -t telemetry-app-test .
+
+      - name: ✅ Run Pytest + Coverage inside Docker
+        run: |
+          docker run --rm -v ${{ github.workspace }}:/app -w /app telemetry-app-test sh -c "
+            pip install pytest coverage &&
+            coverage run -m pytest &&
+            coverage report &&
+            coverage html
+          "
+
+      - name: 📦 Upload HTML Coverage Report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: html-coverage-report
+          path: htmlcov/
+
+      - name: 📣 Slack Notification (Success)
+        if: success()
+        uses: slackapi/slack-github-action@v1.24.0
+        with:
+          payload: |
+            {
+              "text": "✅ Telemetry Build/Test Passed: `${{ github.repository }}` on branch `${{ github.ref_name }}`.\n🧪 Coverage and tests successful."
+            }
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_ROUTER_TELEMETRY }}
+
+      - name: 📣 Slack Notification (Failure)
+        if: failure()
+        uses: slackapi/slack-github-action@v1.24.0
+        with:
+          payload: |
+            {
+              "text": "❌ Telemetry Build/Test Failed: `${{ github.repository }}` on `${{ github.ref_name }}`.\nCheck logs: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            }
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_ROUTER_TELEMETRY }}
