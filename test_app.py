@@ -4,6 +4,10 @@ import pytest
 from unittest.mock import patch
 from app import app, DATA_FILE
 
+
+def test_app_is_up():
+    assert app is not None
+
 @pytest.fixture
 def client():
     app.config['TESTING'] = True
