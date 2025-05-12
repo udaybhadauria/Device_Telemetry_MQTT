@@ -2,7 +2,7 @@ import os
 import json
 import pytest
 from unittest.mock import patch
-from app import app, DATA_FILE
+from mqtt_broker import app, DATA_FILE
 
 
 def test_app_is_up():
