@@ -32,7 +32,7 @@ HTML_TEMPLATE = """
   </style>
 </head>
 <body>
-  <h2>Device Telemetry Dashboard</h2>
+  <h2>Router Telemetry Dashboard</h2>
   <table>
     <thead>
       <tr>
