@@ -5,3 +5,5 @@ paho-mqtt
 pytest
 pytest-mock
 coverage
+PyJWT
+flasgger

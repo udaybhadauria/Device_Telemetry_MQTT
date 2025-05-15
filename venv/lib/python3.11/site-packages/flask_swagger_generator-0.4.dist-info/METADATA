@@ -1,0 +1,69 @@
+Metadata-Version: 2.1
+Name: flask-swagger-generator
+Version: 0.4
+Summary: A library for generating swagger open api specifications for the Flask web framework
+Home-page: https://github.com/coding-kitties/flask-swagger-generator.git
+Author: coding kitties
+License: MIT
+Keywords: Flask,swagger,swagger generator,OpenAPI
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Software Development
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+Requires-Dist: Flask (>=1.1.1)
+Requires-Dist: marshmallow (>=3.0.0)
+Requires-Dist: setuptools (~=51.0.0)
+
+# Flask Swagger Generator
+Flask swagger generator is a library to create Swagger Open API definitions 
+for Flask based applications. Swagger is an Interface Description Language for describing REST 
+APIs expressed using JSON and YAML. 
+
+## Installing 
+Install and update using pip:
+
+```
+pip install flask-swagger-generator
+```
+
+## Documentation
+COMING SOON
+
+## A Simple Example
+
+```python
+from flask import Blueprint, jsonify
+from flask import Flask
+
+from flask_swagger_generator.generators import Generator
+from flask_swagger_generator.specifiers import SwaggerVersion
+from flask_swagger_generator.utils import SecurityType
+
+swagger_destination_path = '/static/swagger.yaml'
+
+# Create the bluepints
+blueprint = Blueprint('objects', __name__)
+
+# Create the flask app
+app = Flask(__name__)
+
+# Create swagger version 3.0 generator
+generator = Generator.of(SwaggerVersion.VERSION_THREE)
+
+# Add security, response and request body definitions
+@generator.security(SecurityType.BEARER_AUTH)
+@generator.response(status_code=200, schema={'id': 10, 'name': 'test_object'})
+@generator.request_body({'id': 10, 'name': 'test_object'})
+@blueprint.route('/objects/<int:object_id>', methods=['PUT'])
+def update_object(object_id):
+    return jsonify({'id': 1, 'name': 'test_object_name'}), 201
+
+app.register_blueprint(blueprint)
+generator.generate_swagger(app, destination_path=swagger_destination_path)
+```
+

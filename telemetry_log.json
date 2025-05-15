@@ -136,5 +136,7379 @@
     "cpu_temp": "67000",
     "wan_ip": "2001:558:6045:8c:28ec:7e53:f986:9d02",
     "timestamp": "2025-05-12 16:17:19"
+  },
+  {
+    "uptime": "23:28",
+    "cpu_temp": "71000",
+    "wan_ip": "2001:558:6045:8c:28ec:7e53:f986:9d02",
+    "timestamp": "2025-05-12 20:13:27"
+  },
+  {
+    "uptime": "1:23",
+    "cpu_temp": "52.0\u00b0C",
+    "wan_ip": "203.0.113.42",
+    "timestamp": "2025-05-12 21:33:35"
+  },
+  {
+    "uptime": "2 days",
+    "cpu_temp": "52000",
+    "wan_ip": "203.0.113.42",
+    "timestamp": "2025-05-12 21:36:09"
+  },
+  {
+    "uptime": "3 days",
+    "cpu_temp": "67000",
+    "wan_ip": "224.10.113.42",
+    "timestamp": "2025-05-12 21:40:13"
+  },
+  {
+    "uptime": "3 days",
+    "cpu_temp": "67000",
+    "wan_ip": "224.10.113.42",
+    "timestamp": "2025-05-12 23:20:01"
+  },
+  {
+    "uptime": "5 days",
+    "cpu_temp": "87000",
+    "wan_ip": "224.10.113.42",
+    "timestamp": "2025-05-12 23:32:44"
+  },
+  {
+    "uptime": "4 days",
+    "cpu_temp": "56890",
+    "wan_ip": "134.10.113.42",
+    "timestamp": "2025-05-13 00:16:35"
+  },
+  {
+    "uptime": "4 days",
+    "cpu_temp": "56890",
+    "wan_ip": "134.10.113.42",
+    "timestamp": "2025-05-13 13:20:40"
+  },
+  {
+    "uptime": "2 days",
+    "cpu_temp": "66890",
+    "wan_ip": "19.10.13.42",
+    "timestamp": "2025-05-13 16:03:26"
+  },
+  {
+    "uptime": "2 days",
+    "cpu_temp": "66890",
+    "wan_ip": "19.10.13.42",
+    "timestamp": "2025-05-13 16:31:39"
+  },
+  {
+    "uptime": "12 days",
+    "cpu_temp": "96890",
+    "wan_ip": "19.10.13.42",
+    "timestamp": "2025-05-13 18:33:55"
+  },
+  {
+    "uptime": "12 days",
+    "cpu_temp": "96890",
+    "wan_ip": "19.10.13.42",
+    "timestamp": "2025-05-13 20:26:48"
+  },
+  {
+    "uptime": "6 days",
+    "cpu_temp": "96890",
+    "wan_ip": "19.10.13.42",
+    "timestamp": "2025-05-13 20:40:17"
+  },
+  {
+    "uptime": "4 days",
+    "cpu_temp": "56890",
+    "wan_ip": "134.10.113.42",
+    "timestamp": "2025-05-13 20:45:10"
+  },
+  {
+    "uptime": "4 days",
+    "cpu_temp": "56890",
+    "wan_ip": "134.10.113.42",
+    "timestamp": "2025-05-13 20:45:28"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:54"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:54"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:54"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:52:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:02"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:02"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:02"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:02"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:02"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:02"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:04"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:04"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:04"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:04"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:04"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:04"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:04"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:04"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:04"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:10"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:10"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:10"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:10"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:10"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:10"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:10"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:13"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:13"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:13"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:13"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:13"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:13"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:16"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:16"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:16"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:16"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:16"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:16"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:16"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:16"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:17"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:17"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:17"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:17"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:17"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:17"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:17"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:17"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:17"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:18"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:18"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:18"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:18"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:18"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:18"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:18"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:18"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:18"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:19"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:19"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:19"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:19"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:19"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:19"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:19"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:19"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:19"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:20"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:20"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:20"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:20"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:20"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:20"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:20"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:20"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:20"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:21"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:21"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:21"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:21"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:21"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:21"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:21"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:21"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:22"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:22"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:22"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:22"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:22"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:22"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:22"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:22"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:23"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:23"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:23"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:23"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:23"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:23"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:23"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:23"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:24"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:24"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:24"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:24"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:24"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:24"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:24"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:24"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:24"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:24"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:25"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:25"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:25"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:25"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:25"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:25"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:26"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:26"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:26"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:26"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:26"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:26"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:26"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:26"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:26"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:26"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:27"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:27"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:27"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:27"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:27"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:27"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:27"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:27"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:28"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:28"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:28"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:28"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:28"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:28"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:28"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:28"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:29"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:29"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:29"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:29"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:29"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:29"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:29"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:29"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:30"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:30"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:30"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:30"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:30"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:30"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:30"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:31"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:31"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:31"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:31"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:31"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:31"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:31"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:31"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:31"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:32"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:32"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:32"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:32"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:32"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:32"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:32"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:32"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:33"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:33"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:33"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:33"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:33"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:33"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:33"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:33"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:33"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:34"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:34"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:34"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:34"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:34"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:34"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:34"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:34"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:35"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:35"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:35"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:35"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:35"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:35"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:35"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:35"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:35"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:35"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:36"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:36"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:36"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:36"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:36"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:36"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:36"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:36"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:37"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:37"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:37"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:37"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:37"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:37"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:37"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:37"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:38"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:38"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:38"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:38"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:38"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:38"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:38"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:38"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:38"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:38"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:38"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:39"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:39"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:39"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:39"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:39"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:39"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:39"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:40"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:40"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:40"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:40"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:40"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:40"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:40"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:40"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:41"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:41"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:41"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:41"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:41"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:41"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:41"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:41"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:42"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:42"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:42"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:42"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:42"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:42"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:42"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:42"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:42"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:43"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:43"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:43"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:43"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:43"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:43"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:43"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:43"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:43"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:43"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:43"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:44"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:44"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:44"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:44"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:44"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:44"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:44"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:44"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:45"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:45"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:45"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:45"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:45"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:46"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:46"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:46"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:46"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:46"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:46"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:46"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:46"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:46"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:46"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:46"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:46"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:46"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:47"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:47"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:47"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:47"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:47"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:47"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:48"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:48"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:48"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:48"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:48"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:48"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:48"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:48"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:48"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:48"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:49"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:49"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:49"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:49"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:49"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:49"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:49"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:49"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:50"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:50"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:50"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:50"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:50"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:50"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:50"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:50"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:51"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:51"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:51"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:51"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:51"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:51"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:51"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:51"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:54"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:54"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:54"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:54"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:54"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:54"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:54"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:54"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:53:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:02"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:02"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:02"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:02"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:02"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:02"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:02"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:04"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:04"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:04"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:04"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:04"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:10"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:10"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:10"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:10"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:10"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:10"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:10"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:13"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:13"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:13"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:13"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:13"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:13"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:13"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:13"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:13"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:16"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:16"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:16"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:16"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:16"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:16"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:16"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:17"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:17"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:17"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:17"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:17"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:17"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:17"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:17"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:17"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:17"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:17"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:18"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:18"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:18"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:18"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:18"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:18"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:18"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:19"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:19"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:19"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:19"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:19"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:19"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:19"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:20"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:20"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:20"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:20"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:20"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:20"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:20"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:20"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:20"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:20"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:21"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:21"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:21"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:21"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:21"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:21"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:21"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:22"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:22"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:22"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:22"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:22"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:22"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:22"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:23"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:23"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:23"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:23"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:23"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:23"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:23"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:23"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:23"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:23"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:23"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:24"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:24"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:24"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:24"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:24"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:24"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:25"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:25"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:25"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:25"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:25"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:25"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:25"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:25"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:25"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:25"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:26"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:26"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:26"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:26"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:26"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:26"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:26"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:26"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:26"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:27"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:27"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:27"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:27"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:27"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:27"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:27"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:27"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:27"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:27"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:28"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:28"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:28"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:28"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:28"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:28"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:28"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:28"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:28"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:29"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:29"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:29"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:29"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:29"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:29"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:29"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:29"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:30"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:30"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:30"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:30"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:30"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:30"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:30"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:30"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:31"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:31"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:31"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:31"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:31"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:31"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:31"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:31"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:31"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:32"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:32"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:32"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:32"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:32"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:32"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:32"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:33"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:33"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:33"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:33"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:33"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:33"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:33"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:33"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:33"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:33"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:33"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:33"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:34"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:34"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:34"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:34"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:34"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:34"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:34"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:35"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:35"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:35"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:35"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:35"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:35"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:35"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:35"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:35"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:36"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:36"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:36"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:36"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:36"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:36"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:36"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:36"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:36"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:37"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:37"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:37"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:37"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:37"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:37"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:37"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:37"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:37"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:38"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:38"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:38"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:38"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:38"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:38"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:38"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:39"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:39"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:39"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:39"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:39"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:39"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:39"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:39"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:39"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:40"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:40"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:40"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:40"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:40"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:40"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:40"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:40"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:41"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:41"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:41"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:41"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:41"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:41"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:41"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:41"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:41"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:41"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:42"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:42"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:42"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:42"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:42"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:42"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:42"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:42"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:42"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:43"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:43"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:43"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:43"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:43"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:43"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:43"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:43"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:44"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:44"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:44"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:44"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:44"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:44"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:45"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:45"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:45"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:45"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:45"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:45"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:45"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:45"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:45"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:45"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:45"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:45"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:46"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:46"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:46"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:46"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:46"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:46"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:46"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:47"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:47"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:47"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:47"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:47"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:47"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:47"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:48"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:48"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:48"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:48"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:48"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:48"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:48"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:48"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:48"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:48"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:48"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:49"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:49"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:49"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:49"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:49"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:50"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:50"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:50"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:50"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:50"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:50"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:50"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:50"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:50"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:50"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:51"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:51"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:51"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:51"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:51"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:51"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:51"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:51"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:52"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:53"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:54"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:54"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:54"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:54"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:54"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:54"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:54"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:54"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:54"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:55"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:56"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:57"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:58"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:54:59"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:00"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:01"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:02"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:02"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:02"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:02"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:02"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:02"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:02"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:02"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:03"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:04"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:04"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:04"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:04"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:04"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:04"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:05"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:06"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:07"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:08"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:09"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:10"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:10"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:10"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:10"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:10"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:10"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:10"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:10"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:11"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:12"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:13"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:13"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:13"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:13"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:13"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:13"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:14"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-13 20:55:15"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-14 20:54:22"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-14 21:16:24"
+  },
+  {
+    "uptime": "7 days",
+    "cpu_temp": "77000",
+    "wan_ip": "29.10.13.42",
+    "timestamp": "2025-05-14 21:18:52"
+  },
+  {
+    "uptime": "{{uptime}}",
+    "cpu_temp": "{{cpu_temp}}",
+    "wan_ip": "{{wan_ip}}",
+    "timestamp": "2025-05-14 22:54:59"
+  },
+  {
+    "uptime": "9 days",
+    "cpu_temp": "72058",
+    "wan_ip": "151.14.81.27",
+    "timestamp": "2025-05-14 22:57:00"
+  },
+  {
+    "uptime": "9 days",
+    "cpu_temp": "69365",
+    "wan_ip": "224.71.207.51",
+    "timestamp": "2025-05-14 22:57:08"
+  },
+  {
+    "uptime": "5 days",
+    "cpu_temp": "61149",
+    "wan_ip": "202.139.162.185",
+    "timestamp": "2025-05-14 22:57:16"
   }
 ]
