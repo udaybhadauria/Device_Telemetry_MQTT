@@ -36,7 +36,7 @@ jobs:
       - name: Send Slack Notification
         if: always()
         env:
-          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_ROUTER_TELEMETRY }}
         run: |
           status="${{ steps.parse.outputs.status }}"
           if [ "$status" = "passed" ]; then
