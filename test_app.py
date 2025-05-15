@@ -7,8 +7,8 @@ from mqtt_broker import app, DATA_FILE
 
 # Load environment variables from .env
 load_dotenv()
-TEST_USERNAME = os.getenv("MQTT_USER")
-TEST_PASSWORD = os.getenv("MQTT_PASSWORD")
+TEST_USERNAME = os.getenv("admin")
+TEST_PASSWORD = os.getenv("admin123")
 
 def test_app_is_up():
     assert app is not None
