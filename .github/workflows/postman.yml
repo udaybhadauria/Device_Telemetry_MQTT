@@ -21,7 +21,7 @@ jobs:
 
       - name: Run API Tests and Save Result
         run: |
-          postman collection run "39439232-180c32bc-94c7-4f5e-880d-32ccea344ca7" --reporters cli,json --reporter-json-export result.json
+          postman collection run "39439232-180c32bc-94c7-4f5e-880d-32ccea344ca7" --reporters cli,json --reporter-json-export result.json --insecure
 
       - name: Parse Test Result and Set Status
         id: parse
