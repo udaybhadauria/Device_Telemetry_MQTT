@@ -10,48 +10,52 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+  - uses: actions/checkout@v4
 
-      - name: Install Postman CLI
-        run: |
-          curl -o- "https://dl-cli.pstmn.io/install/linux64.sh" | sh
+  - name: Install Postman CLI
+    run: |
+      curl -o- "https://dl-cli.pstmn.io/install/linux64.sh" | sh
 
-      - name: Login to Postman CLI
-        run: postman login --with-api-key ${{ secrets.POSTMAN_API_KEY }}
+  - name: Login to Postman CLI
+    run: postman login --with-api-key ${{ secrets.POSTMAN_API_KEY }}
 
-      - name: Run API Tests and Save Result
-        run: |
-          postman collection run "39439232-180c32bc-94c7-4f5e-880d-32ccea344ca7" --reporters cli,json --reporter-json-export result.json --insecure
+  - name: Run API Tests and Save Result
+    run: |
+      postman collection run "39439232-180c32bc-94c7-4f5e-880d-32ccea344ca7" \
+        --reporters cli,json \
+        --reporter-json-export result.json \
+        --insecure \
+        --env-var host=${{ secrets.ROUTER_HOST }}
 
-      - name: Parse Test Result and Set Status
-        id: parse
-        run: |
-          failures=$(jq '.run.failures | length' result.json)
-          if [ "$failures" -eq 0 ]; then
-            echo "status=passed" >> $GITHUB_OUTPUT
-          else
-            echo "status=failed" >> $GITHUB_OUTPUT
-          fi
+  - name: Parse Test Result and Set Status
+    id: parse
+    run: |
+      failures=$(jq '.run.failures | length' result.json)
+      if [ "$failures" -eq 0 ]; then
+        echo "status=passed" >> $GITHUB_OUTPUT
+      else
+        echo "status=failed" >> $GITHUB_OUTPUT
+      fi
 
-      - name: Send Slack Notification
-        if: always()
-        env:
-          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_ROUTER_TELEMETRY }}
-        run: |
-          status="${{ steps.parse.outputs.status }}"
-          if [ "$status" = "passed" ]; then
-            COLOR="#2eb886"
-            TEXT="✅ Postman API tests passed on branch $GITHUB_REF"
-          else
-            COLOR="#dc3545"
-            TEXT="❌ Postman API tests failed on branch $GITHUB_REF"
-          fi
+  - name: Send Slack Notification
+    if: always()
+    env:
+      SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_ROUTER_TELEMETRY }}
+    run: |
+      status="${{ steps.parse.outputs.status }}"
+      if [ "$status" = "passed" ]; then
+        COLOR="#2eb886"
+        TEXT="✅ Postman API tests passed on branch $GITHUB_REF"
+      else
+        COLOR="#dc3545"
+        TEXT="❌ Postman API tests failed on branch $GITHUB_REF"
+      fi
 
-          curl -X POST -H 'Content-type: application/json' --data "{
-            \"attachments\": [
-              {
-                \"color\": \"$COLOR\",
-                \"text\": \"$TEXT\"
-              }
-            ]
-          }" $SLACK_WEBHOOK
+      curl -X POST -H 'Content-type: application/json' --data "{
+        \"attachments\": [
+          {
+            \"color\": \"$COLOR\",
+            \"text\": \"$TEXT\"
+          }
+        ]
+      }" $SLACK_WEBHOOK
